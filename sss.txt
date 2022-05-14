@@ -1,0 +1,21 @@
+
+
+1.	In real time, we work as a team, hence we need Git and GitHub
+2.	Create an account at GitHub, where we can host our code
+3.	Create a new repository say 'GitDemoRepo' 
+4.	At a high level Git is used to move the code between local machines and GitHub Repo
+5.	Download git and install
+6.	Open Git Command Prompt and trigger the below commands:
+1.	Create a local folder in your System for Git Repos
+1.	Navigate to this folder using command prompt
+2.	Initialize the git folder as local git repository
+1.	git init
+2.	.git will be created to confirm this
+3.	Register yourself with Git
+1.	git config --global user.name "Arun"
+2.	git config --global user.email "arun.motoori@gmail.com"
+4.	Clone the GitHub repo to the local repo
+1.	git clone https://github.com/arunmotoori/GDR.git
+5.	Go inside the cloned project folder
+1.	cd GDR
+6.	Copy all the Project files to the Local Git Repo folder
