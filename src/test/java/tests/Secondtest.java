@@ -7,6 +7,7 @@ public class Secondtest {
 	public void secondTest(){
 		
 		System.out.println("This is second test" );
+		System.out.println("Say hi to krish" );
 
 }
 }
